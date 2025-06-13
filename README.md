@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Nivetha J! 
 
-<!--
-**Nivetha100307/Nivetha100307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ A cybersecurity student with a passion for web development, real-time systems, and building secure applications that make a difference.
 
-Here are some ideas to get you started:
+ Currently learning: React, Node.js, Post-Quantum Cryptography, and Deepfake Detection systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Strong interests in:
+- Full-Stack Development
+- Cybersecurity 
+- Artificial Intelligence 
+- Real-time Messaging Apps 
+
+ Tech Stack:
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Python, Node.js
+- Database: MongoDB
+- Tools: Git, GitHub, VS Code
+
+ Recent Projects:
+- Mini Gamee Hub (HTML, CSS, JS)
+- Real-time Chat Application using React
+- Deepfake Detection System (Hackathon Project)
+- Secure Messaging App with Post-Quantum Cryptography
+
+ Ask me about:
+- Web development
+- Cybersecurity basics
+- Hackathon project building
+- Real-time communication apps
+
+ How to reach me:
+- Email: nivethajayakumar07@gmail.com
+- LinkedIn: [Nivetha Jayakumar](https://www.linkedin.com/in/nivetha-jayakumar)
+
+ Fun Fact:
+> I’m always curious to explore emerging technologies and love turning ideas into reality! 
+
+---
+
+### 📈 GitHub Stats
+![Nivetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nivetha100307&show_icons=true&theme=radical)
+
+---
+
