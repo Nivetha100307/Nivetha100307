@@ -12,6 +12,15 @@ Key Interests:
 
 ---
 
+## Recent Projects
+
+- Mini Game Hub (HTML, CSS, JS)
+- Real-time Chat Application using React
+- Deepfake Detection System (Hackathon Project)
+- Secure Messaging App with Post-Quantum Cryptography
+
+---
+
 ## My GitHub Stats
 
 ![Nivetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nivetha100307&show_icons=true&theme=radical)
@@ -46,9 +55,3 @@ Always curious to explore new technologies and build meaningful projects.
 
 ---
 
-## Animated Header
-
-```html
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F70000&width=435&lines=Hi+I'm+Nivetha+J;Cybersecurity+Student;Web+Developer;Always+Learning+New+Tech;Let's+Build+Together" alt="Typing SVG" />
-</p>
