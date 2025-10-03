@@ -8,7 +8,7 @@ Key Interests:
 - Cybersecurity
 - Blockchain Applications
 - Artificial Intelligence
-- Real-time Messaging Applications
+- CTF Competitions
 
 ---
 
@@ -17,7 +17,7 @@ Key Interests:
 - Mini Game Hub (HTML, CSS, JS)
 - Real-time Chat Application using React
 - Deepfake Detection System (Hackathon Project)
-- Secure Messaging App with Post-Quantum Cryptography
+- Secure Messaging App with Post-Quantum Cryptography(Hackathon Project)
 
 ---
 
