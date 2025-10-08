@@ -14,7 +14,7 @@ Currently exploring React, Node.js, Post-Quantum Cryptography, and Deepfake Dete
 ---
 ## 🌟 Featured Projects
 
-### 🎮 Mini Game Hub  
+### 🎮 [Mini Game Hub](https://github.com/Nivetha100307/minigame-hub)
 **Tech Stack:** HTML, CSS, JavaScript  
 *Interactive browser-based gaming portal.*  
 Designed a responsive mini-game platform featuring multiple lightweight web games built using vanilla JavaScript and CSS animations. Focused on smooth gameplay, intuitive UI, and performance optimization.  
