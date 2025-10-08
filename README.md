@@ -12,16 +12,53 @@ Currently exploring React, Node.js, Post-Quantum Cryptography, and Deepfake Dete
 - Continuously learning modern development and security practices
 
 ---
+## 🌟 Featured Projects
+
+### 🎮 Mini Game Hub  
+**Tech Stack:** HTML, CSS, JavaScript  
+*Interactive browser-based gaming portal.*  
+Designed a responsive mini-game platform featuring multiple lightweight web games built using vanilla JavaScript and CSS animations. Focused on smooth gameplay, intuitive UI, and performance optimization.  
+
+
+---
+
+### 💬 [Real-time Chat Application](https://github.com/Lakshana-K-1907/Smartathon) *(Hackathon Project)*  
+**Tech Stack:** React.js, Node.js, Express.js, Socket.io  
+*Seamless communication with real-time updates.*  
+Developed a responsive real-time chat system for the **Smartathon Hackathon**, integrating live message exchange using WebSockets. Supported multiple chat rooms and instant notifications with an engaging frontend interface.  
+
+---
+
+### 🧠 Deepfake Detection System *(Hackathon Project)*  
+**Tech Stack:** Python, TensorFlow, OpenCV  
+*Combating digital forgery using deep learning.*  
+Implemented a deepfake detection pipeline leveraging **CNNs with attention mechanisms** to classify manipulated media. Aimed at reducing misinformation and promoting AI-powered media verification.  
+
+
+---
+
+### 🧾 KMRL Secured Website *(Hackathon Project)*  
+**Tech Stack:** Python, NLP, OCR, Encryption, MongoDB  
+*Smart verification and data protection system.*  
+Built a secure web system for **document authentication** using **OCR (Tesseract)** for text extraction and **NLP** for semantic validation. Integrated encryption modules for secure storage in MongoDB, ensuring confidentiality of sensitive records.  
+
+---
+
+### 🗒️ Secure Notes App *(Ongoing Project)*  
+**Tech Stack:** React.js, Node.js, MongoDB, CryptoJS  
+*Privacy-first note-taking solution.*  
+Currently developing a full-stack encrypted note-sharing application. Each note is **client-side encrypted** before upload, ensuring zero-knowledge data storage. Features include secure authentication, note versioning, and user access controls.  
+
 
 ## Tech Stack & Tools
 
 | Category          | Tools & Languages |
 |------------------|-----------------|
-| Programming       | Python · Java · C · C++ · JavaScript · HTML · CSS |
+| Programming       | Python · Java · C · JavaScript · HTML · CSS |
 | Frameworks        | React.js · Spring Boot · Streamlit |
 | Databases         | MySQL · MongoDB |
 | Tools             | Git · GitHub · VS Code |
-| Cybersecurity     | Basic Network Analysis · CTF Participation · Web Security Concepts |
+| Cybersecurity     | Basic Network Analysis · CTF Participation |
 
 ### Quick Badges
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
