@@ -58,7 +58,7 @@ Currently developing a full-stack encrypted note-sharing application. Each note 
 | Frameworks        | React.js · Spring Boot · Streamlit |
 | Databases         | MySQL · MongoDB |
 | Tools             | Git · GitHub · VS Code |
-| Cybersecurity     | Basic Network Analysis · CTF Participation |
+| Cybersecurity     | CTF Participation |
 
 ### Quick Badges
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
