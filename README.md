@@ -1,57 +1,50 @@
-# Hi there, I'm Nivetha J
-
-Cybersecurity student with a passion for web development, real-time systems, and building secure applications.
-
-Currently learning: React, Node.js, Post-Quantum Cryptography, and Deepfake Detection systems.
-
-Key Interests:
-- Cybersecurity
-- Blockchain Applications
-- Artificial Intelligence
-- CTF Competitions
-
----
-
-## Recent Projects
-
-- Mini Game Hub (HTML, CSS, JS)
-- Real-time Chat Application using React
-- Deepfake Detection System (Hackathon Project)
-- Secure Messaging App with Post-Quantum Cryptography(Hackathon Project)
-
----
-
-## My GitHub Stats
-
-![Nivetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nivetha100307&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Nivetha100307&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nivetha100307&layout=compact&theme=radical)
-
----
-
-## Tech Stack
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivetha-jayakumar)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:24cy314@stjosephs.ac.in)
-
----
+# Nivetha J
 
 ## About Me
+Cybersecurity student with a passion for web development, real-time systems, and building secure and scalable applications.  
+Currently learning React, Node.js, Post-Quantum Cryptography, and Deepfake Detection systems.  
 
-Always curious to explore new technologies and build meaningful projects.
+## Core Interests
+- Cybersecurity  
+- Artificial Intelligence  
+- Web Development  
+- CTF Competitions  
 
----
+## Featured Projects
 
+- **Mini Game Hub** — HTML, CSS, JS  
+  Simple web-based gaming hub with interactive UI. *(Repository not yet available)*  
+
+- **[Real-time Chat Application](https://github.com/Lakshana-K-1907/Smartathon)** *(Hackathon Project)* — React, Node.js  
+  Built a dynamic chat interface supporting real-time communication.  
+
+- **Deepfake Detection System** *(Hackathon Project)* — Python, OpenCV, TensorFlow  
+  Explored CNN-based approaches to detect manipulated videos. *(Repository not yet available)*  
+
+- **Secure Messaging App** — HTML, CSS, JavaScript, Python, Cryptography  
+  Developed a hybrid-encryption-based chat system with AES-secured communication. *(Repository not yet available)*  
+
+- **KMRL Secured Website** *(Hackathon Project)* — Python, NLP, OCR, Encryption, MongoDB  
+  Built a secure web system integrating OCR and NLP modules for automated document verification and encrypted data storage. *(Repository not yet available)*  
+
+- **Secure Notes App** *(Ongoing Project)* — React, Node.js, MongoDB  
+  Developing a secure note-sharing app with encryption-based storage. *(Repository not yet available)*  
+
+## Tech Stack
+**Languages:** Java, JavaScript, Python, C, C++, HTML, CSS  
+**Frameworks:** React.js, Spring Boot, Streamlit  
+**Databases:** MySQL, MongoDB  
+**Tools:** Git, GitHub, VS Code  
+
+## Achievements & Activities
+- Winner – Innovation Club (Frontend Development)  
+- Top 5 – Ideathon, St. Joseph’s Institutions  
+- CTFs: Phantom 2.0 (56/200+), Cyscom VIT (12/50+), Creator – “Ghost in the Machine”  
+- Member – Hackathon Committee; helped organize college-level hackathons  
+- Participant – Smartathon (IEEE), Vizfest, Makeathon, SIH Internal  
+
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/nivetha-j-ab8412330)  
+- [Email](mailto:nivethajayakumar07@gmail.com)  
+- [GitHub](https://github.com/Nivetha100307)
