@@ -29,7 +29,7 @@ Developed a responsive real-time chat system for the **Smartathon Hackathon**, i
 
 ---
 
-### 🧠 Deepfake Detection System *(Hackathon Project)*  
+### 🧠 [Deepfake Detection System](https://github.com/K0L4R/deepfake) *(Hackathon Project)*  
 **Tech Stack:** Python, TensorFlow, OpenCV  
 *Combating digital forgery using deep learning.*  
 Implemented a deepfake detection pipeline leveraging **CNNs with attention mechanisms** to classify manipulated media. Aimed at reducing misinformation and promoting AI-powered media verification.  
