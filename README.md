@@ -1,47 +1,41 @@
 # Nivetha J
+Cybersecurity Student | Web Developer | Building Secure & Scalable Systems
+
+---
 
 ## About Me
-Cybersecurity student with a passion for web development, real-time systems, and building secure and scalable applications.  
-Currently learning React, Node.js, Post-Quantum Cryptography, and Deepfake Detection systems.  
+I am Nivetha J, a cybersecurity enthusiast and web developer with a focus on building secure and real-time systems.  
+Currently exploring React, Node.js, Post-Quantum Cryptography, and Deepfake Detection systems.
 
-## Core Interests
-- Cybersecurity  
-- Artificial Intelligence  
-- Web Development  
-- CTF Competitions  
+- Passionate about Cybersecurity, AI, and CTF Competitions
+- Building web applications and secure real-world systems
+- Continuously learning modern development and security practices
 
-## Featured Projects
+---
 
-- **Mini Game Hub** — HTML, CSS, JS  
-  Simple web-based gaming hub with interactive UI. *(Repository not yet available)*  
+## Tech Stack & Tools
 
-- **[Real-time Chat Application](https://github.com/Lakshana-K-1907/Smartathon)** *(Hackathon Project)* — React, Node.js  
-  Built a dynamic chat interface supporting real-time communication.  
+| Category          | Tools & Languages |
+|------------------|-----------------|
+| Programming       | Python · Java · C · C++ · JavaScript · HTML · CSS |
+| Frameworks        | React.js · Spring Boot · Streamlit |
+| Databases         | MySQL · MongoDB |
+| Tools             | Git · GitHub · VS Code |
+| Cybersecurity     | Basic Network Analysis · CTF Participation · Web Security Concepts |
 
-- **Deepfake Detection System** *(Hackathon Project)* — Python, OpenCV, TensorFlow  
-  Explored CNN-based approaches to detect manipulated videos. *(Repository not yet available)*  
-
-- **Secure Messaging App** — HTML, CSS, JavaScript, Python, Cryptography  
-  Developed a hybrid-encryption-based chat system with AES-secured communication. *(Repository not yet available)*  
-
-- **KMRL Secured Website** *(Hackathon Project)* — Python, NLP, OCR, Encryption, MongoDB  
-  Built a secure web system integrating OCR and NLP modules for automated document verification and encrypted data storage. *(Repository not yet available)*  
-
-- **Secure Notes App** *(Ongoing Project)* — React, Node.js, MongoDB  
-  Developing a secure note-sharing app with encryption-based storage. *(Repository not yet available)*  
-
-## Tech Stack
-**Languages:** Java, JavaScript, Python, C, C++, HTML, CSS  
-**Frameworks:** React.js, Spring Boot, Streamlit  
-**Databases:** MySQL, MongoDB  
-**Tools:** Git, GitHub, VS Code  
-
-## Achievements & Activities
-- Winner – Innovation Club (Frontend Development)  
-- Top 5 – Ideathon, St. Joseph’s Institutions  
-- CTFs: Phantom 2.0 (56/200+), Cyscom VIT (12/50+), Creator – “Ghost in the Machine”  
-- Member – Hackathon Committee; helped organize college-level hackathons  
-- Participant – Smartathon (IEEE), Vizfest, Makeathon, SIH Internal  
+### Quick Badges
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 ## Connect with Me
