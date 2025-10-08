@@ -37,7 +37,7 @@ Implemented a deepfake detection pipeline leveraging **CNNs with attention mecha
 
 ---
 
-### 🧾 KMRL Secured Website *(Hackathon Project)*  
+### 🧾 [KMRL Secured Website](https://github.com/Nivetha100307/DEEPSEARCH) *(Hackathon Project)*  
 **Tech Stack:** Python, NLP, OCR, Encryption, MongoDB  
 *Smart verification and data protection system.*  
 Built a secure web system for **document authentication** using **OCR (Tesseract)** for text extraction and **NLP** for semantic validation. Integrated encryption modules for secure storage in MongoDB, ensuring confidentiality of sensitive records.  
